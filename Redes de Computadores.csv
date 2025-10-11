@@ -1,0 +1,145 @@
+Aula;Subtítulo;Vídeo;Videoaula;Duração
+Aula 00;"Conceitos Básicos de Rede - Parte 1 - Topologia de Redes; LAN, MAN e WAN";1;Conceitos Básicos;53:47
+Aula 00;"Conceitos Básicos de Rede - Parte 1 - Topologia de Redes; LAN, MAN e WAN";2;Topologia de Redes Fisicas;01:01:19
+Aula 00;"Conceitos Básicos de Rede - Parte 1 - Topologia de Redes; LAN, MAN e WAN";3;Tecnologias de Acesso ao Meio;18:40
+Aula 00;"Conceitos Básicos de Rede - Parte 1 - Topologia de Redes; LAN, MAN e WAN";4;Classificação das redes de computadores;22:54
+Aula 01;Conceitos Básicos de Rede - Parte 2 - Cabeamento Estruturado;1;Transmissão de Sinais;42:36
+Aula 01;Conceitos Básicos de Rede - Parte 2 - Cabeamento Estruturado;2;Meios de Transmissão - Parte 1;22:31
+Aula 01;Conceitos Básicos de Rede - Parte 2 - Cabeamento Estruturado;3;Meios de Transmissão - Parte 2;38:47
+Aula 01;Conceitos Básicos de Rede - Parte 2 - Cabeamento Estruturado;4;Cabeamento Estruturado - Parte 01;11:45
+Aula 01;Conceitos Básicos de Rede - Parte 2 - Cabeamento Estruturado;5;Cabeamento Estruturado - Parte 02;22:05
+Aula 01;Conceitos Básicos de Rede - Parte 2 - Cabeamento Estruturado;6;Cabeamento Estruturado - Parte 03;22:15
+Aula 01;Conceitos Básicos de Rede - Parte 2 - Cabeamento Estruturado;7;Cabeamento Estruturado - Parte 04;17:53
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;1;Equipamento de Redes;29:43
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;2;Placas de Rede;12:42
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;3;Repetidores - Hubs ou Concentradores;24:58
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;4;Bridges e Switches;40:55
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;5;Roteadores;08:37
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;6;Gateways;08:32
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;7;Equipamentos de Rede Resumo e Consolidação;17:50
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;8;Modelo OSI;27:31
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;9;Modelo Osi - Camada 01;13:11
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;10;Modelo Osi - Camada 02;19:22
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;11;Modelo Osi - Camada 03;11:00
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;12;Modelo Osi - Camada 04;24:29
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;13;Modelo Osi - Camada 05;05:32
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;14;Modelo Osi - Camada 06;02:58
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;15;Modelo Osi - Camada 07;11:19
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;16;Arquitetura TCP/IP;37:30
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;17;Comutação por Pacotes/circuitos/mensagens;44:19
+Aula 02;Equipamentos de Rede / Modelo OSI e TCP/IP;18;Internet - Intranet - Extranet;16:26
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);1;Ethernet - Introdução;27:38
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);2;Ethernet - Padrão Ethernet;15:35
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);3;Ethernet - Padrão Fastethernet;16:22
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);4;Ethernet - Padrão Gigabitethernet;38:14
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);5;Protocolos Auxiliares;15:52
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);6;Protocolos 802.3;22:20
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);7;Modos de Operação (comutação);33:49
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);8;Modelo Hierárquico;12:16
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);9;Técnica de Detenção e Correção de Erros;11:52
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);10;ATM - Parte 01;23:55
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);11;ATM - Parte 02;08:50
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);12;ATM - Parte 03;14:14
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);13;ATM - Parte 04;04:10
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);14;X.25 e Frame Relay;15:40
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);15;PPP (Point to Point Protocol);11:24
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);16;Token Ring-802.5 - FDDI;07:58
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);17;SMDS - Switched Multimegabit Data Service;05:35
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);18;Tecnologias e Redes de Acesso;29:09
+Aula 03;Protocolos - Parte 1 (Ethernet,ATM,Frame Relay, Infraestrutura de Acesso e outros);19;HDLC - Hight-Level Data Link Control;03:42
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);1;STP - Spanning Tree Protocol;40:54
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);2;VLAN - Parte 01;28:09
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);3;VLAN - Parte 02;13:21
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);4;Redes sem Fio - Parte 01;44:00
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);5;Redes sem Fio - Parte 02;39:10
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);6;Redes sem Fio - Parte 03;27:11
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);7;Outras Redes sem Fio;18:55
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);8;802.1 e Eap - Parte 01;31:33
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);9;802.1 e Eap - Parte 02;28:49
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);10;Segurança em Redes sem Fio - Introdução;08:22
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);11;Segurança em Redes sem Fio - Tecnologia Wap - Parte 01;19:25
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);12;Segurança em Redes sem Fio - Tecnologia Wap - Parte 02;17:59
+Aula 04;Protocolos - Parte 2 (STP,Vlan, 802.11 e aspectos de Segurança);13;Segurança em Redes sem Fio - Wpa, Wpa2 e Wpa3;51:01
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);1;Protocolo IPV4 - Parte 01;18:50
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);2;Protocolo IPV4 - Parte 02;59:51
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);3;Endereçamento IPv4 - Parte 01;44:03
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);4;Endereçamento IPv4 - Parte 02;13:59
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);5;Endereçamento IPv4 - Parte 03;15:06
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);6;Endereçamento IPv4 - Parte 04 - Endereços Privados;38:44
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);7;Endereçamento IPv4 - Parte 05 - Subredes;18:10
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);8;Endereçamento IPv4 - Parte 06 - Subredes;40:46
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);9;Endereçamento IPv4 - Parte 07 - Subredes;36:20
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);10;Endereçamento IPv4 - Parte 08 - Subredes;49:05
+Aula 05;Protocolos - Parte 3 (IPV4 e Máscara);11;Protocolo IPv4 - Fragmentação;39:00
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);1;Protocolos da Camada de Rede - NAT;01:04:43
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);2;ARP;27:42
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);3;ICMP - Internet Control Message Protocol - Parte 01;10:40
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);4;ICMP - Parte 02;43:55
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);5;IGMP - Internet Group Managenent Protocol;09:59
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);6;Ipv6 - Parte 01;44:05
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);7;Ipv6 - Parte 02;22:03
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);8;Protocolo Ipv6 - Parte 03;44:37
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);9;Protocolo Ipv6 - Parte 04;33:38
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);10;Protocolo Ipv6 - Parte 05;18:07
+Aula 06;Protocolos - Parte 4 (ICMP, NAT, IPV6);11;Protocolo Ipv6 - Parte 06 - Técnicas de Transição;44:00
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);1;MPLS - Parte 01;25:54
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);2;MPLS - Parte 02;47:00
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);3;Camada de Transporte - Introdução;55:47
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);4;Protocolo Udp;47:53
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);5;Protocolo TCP - Parte 01;19:19
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);6;Protocolo TCP - Parte 02;14:07
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);7;Protocolo TCP - Parte 03;49:32
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);8;Protocolo TCP - Parte 04;33:27
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);9;Protocolo TCP - Parte 05;28:03
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);10;Protocolo TCP - Parte 06;27:07
+Aula 07;Protocolos - Parte 5 (MPLS,TCP, UDP);11;Protocolo SCTP;25:36
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;1;HTTP - Parte 01;18:00
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;2;HTTP - Parte 02;18:41
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;3;HTTP - Parte 03 - Métodos;21:37
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;4;HTTP - Parte 04 - Códigos de Estado;21:53
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;5;HTTP - Parte 05 - Cache e Proxy;26:38
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;6;HTTP - Parte 06 - HTTPS;18:03
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;7;HTTP - Parte 07 - Versoes 2.0 e 3.0;24:13
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;8;SMTP, POP, IMAP - Parte 01;23:42
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;9;SMTP, POP, IMAP - Parte 02;23:26
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;10;SMTP, POP, IMAP - Parte 03;21:59
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;11;SMTP, POP, IMAP - Parte 04;31:19
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;12;Aspectos de Segurança em Serviços de E-mail - Parte 01;30:39
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;13;Aspectos de Segurança em Serviços de E-mail - Parte 02;45:15
+Aula 08;Protocolos - Parte 6 - HTTP/HTTPS, SMTP, POP, IMAP;14;Aspectos de Segurança em Serviços de E-mail - Parte 03;11:56
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);1;DNS-Domain Name System;15:26
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);2;DNS - Estrutura e funcionamento;24:07
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);3;DNS - Tipos de consultas;20:36
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);4;DNS - Métodos de Consulta;12:06
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);5;DNS - Campos DNS;31:02
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);6;DNS - Serviços SOA;40:23
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);7;DHCP - Parte 01;43:21
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);8;DHCP - Parte 02;33:59
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);9;DHCP - Parte 03;16:46
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);10;FTP (File Transfer Protocol) - Parte 01;41:58
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);11;FTP - Modos de Representação - Parte 02;31:54
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);12;SSH - Secure Shell;27:10
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);13;TELNET;17:12
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);14;NTP - Net WorkTime Protocol;31:17
+Aula 09;Protocolos - Parte 7 (DNS, FTP, DHCP, NTP SSH, TELNET e outros);15;RDP - Remote Desktop Protocol;09:27
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";1;Gerenciamento de Redes - Conceitos;38:26
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";2;Protocolo Snmp - Estrutura (introdução e Papéis) - Parte 01;27:17
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";3;Protocolo Snmp - Estrutura (componentes) - Parte 02;24:48
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";4;Protocolo Snmp - Estrutura (pdu-tipos de Mensagens) - Parte 03;18:48
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";5;Protocolo Snmp - Estrutura (versões) - Parte 04;26:02
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";6;Protocolo Snmp - Estrutura (usmxtsm);20:30
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";7;Protocolo Snmp - Mib - Tipos;19:46
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";8;Protocolo Snmp - Estrutura do Pacote;25:11
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";9;Protocolo Snmp - Rmon;12:54
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";10;CACTI;08:21
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";11;Zabbix;41:26
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";12;NAGIOS;22:13
+Aula 10;"Gerenciamento de Redes - SNMP, MIB, SNI; Ferramentas de gerenciamento (Zabbix, Cacti, etc)";13;NetFlow;07:34
+Aula 11;"Roteamento - Protocolos de Roteamento Estáticos e Dinâmicos; VRRP;";1;Protocolos de Roteamento;59:14
+Aula 11;"Roteamento - Protocolos de Roteamento Estáticos e Dinâmicos; VRRP;";2;RIP ( Routing Information Protocoo) - V1 e V2;39:32
+Aula 11;"Roteamento - Protocolos de Roteamento Estáticos e Dinâmicos; VRRP;";3;OSPF - Open Shortest Path First;47:59
+Aula 11;"Roteamento - Protocolos de Roteamento Estáticos e Dinâmicos; VRRP;";4;Protocolos de Roteamento BGP - Border Gateway Protocol;40:11
+Aula 11;"Roteamento - Protocolos de Roteamento Estáticos e Dinâmicos; VRRP;";5;Protocolos de Roteamento Outros protocolos;14:15
+Aula 12;Monitoramento de Tráfego/Análise de Protocolos/Ferramentas de Análise (Wireshark e TCPDUMP);1;Análise de Tráfego - Parte 01;35:03
+Aula 12;Monitoramento de Tráfego/Análise de Protocolos/Ferramentas de Análise (Wireshark e TCPDUMP);2;Análise de Tráfego - Parte 02;54:32
+Aula 12;Monitoramento de Tráfego/Análise de Protocolos/Ferramentas de Análise (Wireshark e TCPDUMP);3;Análise de Tráfego - Parte 03;56:52

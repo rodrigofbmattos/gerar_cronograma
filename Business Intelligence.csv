@@ -1,0 +1,109 @@
+Aula;Subtítulo;Vídeo;Videoaula;Duração
+Aula 00;Dados, informação, conhecimento, inteligência. Dados Abertos. Dados estruturados, semiestruturados e não estruturados;1;Dados, Informação, Conhecimento e Inteligência;01:05:44
+Aula 00;Dados, informação, conhecimento, inteligência. Dados Abertos. Dados estruturados, semiestruturados e não estruturados;2;Dados Estruturados e não Estruturados;01:07:48
+Aula 00;Dados, informação, conhecimento, inteligência. Dados Abertos. Dados estruturados, semiestruturados e não estruturados;3;Dados Abertos;30:54
+Aula 00;Dados, informação, conhecimento, inteligência. Dados Abertos. Dados estruturados, semiestruturados e não estruturados;4;Dados, Informação, Conhecimento e Inteligência - Questões;21:20
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;1;Business Intelligence - Introdução;47:22
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;2;Business Intelligence - Sistemas de Suporte à Decisão;31:27
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;3;Data Warehouse - Contexto;21:49
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;4;Data Warehouse - Definições Básicas;32:48
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;5;Data Warehouse - Características Essenciais;27:58
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;6;Data Warehouse - Tipos de DW;31:08
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;7;Data Warehouse - Processo de Data Warehouse;29:31
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;8;Data Warehouse - Arquiteturas de DW;14:57
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;9;Data Warehouse - Imnon x Kimball;30:05
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;10;Modelagem Dimensional - Conceitos Básicos;25:41
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;11;Modelagem Dimensional - Tabelas Fato e Dimensões - Parte 01;21:14
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;12;Modelagem Dimensional - Tabelas Fato e Dimensões - Parte 02;21:14
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;13;Modelagem Dimensional - Tabelas Dimensões - Parte 01;26:59
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;14;Modelagem Dimensional - Tabelas Dimensões - Parte 02;46:45
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;15;Modelagem Dimensional - Esquemas Estrela e Floco de Neve;30:18
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;16;Modelagem Dimensional - Tipos de Tabelas Fatos;41:13
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;17;Modelagem Dimensional - Processo de Design Multidimensional;26:10
+Aula 01;Business Intelligence, Modelagem Dimensional e Data Warehouse;18;Modelagem Dimensional - Star Schema x OLAP Cube;24:38
+Aula 02;OLAP;1;Modelagem Dimensional - OLAP x OLTP;39:57
+Aula 02;OLAP;2;Modelagem Dimensional - OLAP - Tipos de Armazenamento;38:04
+Aula 02;OLAP;3;Modelagem Dimensional - Operações OLAP ;39:54
+Aula 02;OLAP;4;Modelagem Dimensional - Questões OLAP;28:10
+Aula 03;ETL - Extração, Transformação e Carga;1;ETL - Introdução;32:24
+Aula 03;ETL - Extração, Transformação e Carga;2;ETL - Requisitos e Processo ETL;01:20:31
+Aula 04;Mineração de Dados e Aprendizado de máquina;1;Dados e o Corona Vírus;41:20
+Aula 04;Mineração de Dados e Aprendizado de máquina;2;Mineração de Dados - Conceitos Básicos;31:16
+Aula 04;Mineração de Dados e Aprendizado de máquina;3;Técnicas e Tarefas de Mineração;34:25
+Aula 04;Mineração de Dados e Aprendizado de máquina;4;Mineração de Dados - Processo de KDD;25:21
+Aula 04;Mineração de Dados e Aprendizado de máquina;5;Mineração de Dados - CRISP-DM;40:08
+Aula 04;Mineração de Dados e Aprendizado de máquina;6;Mineração de Dados - Objetivos;14:25
+Aula 04;Mineração de Dados e Aprendizado de máquina;7;Classificação - Parte 01;26:30
+Aula 04;Mineração de Dados e Aprendizado de máquina;8;Classificação - Parte 02;21:35
+Aula 04;Mineração de Dados e Aprendizado de máquina;9;Regressão;16:04
+Aula 04;Mineração de Dados e Aprendizado de máquina;10;Regra de Associação;32:31
+Aula 04;Mineração de Dados e Aprendizado de máquina;11;Agrupamento (Clusterização);22:23
+Aula 04;Mineração de Dados e Aprendizado de máquina;12;Informações Complementares;18:56
+Aula 04;Mineração de Dados e Aprendizado de máquina;13;Aprendizado de máquina - Parte 01;39:51
+Aula 04;Mineração de Dados e Aprendizado de máquina;14;Aprendizado de máquina - Parte 02;24:46
+Aula 04;Mineração de Dados e Aprendizado de máquina;15;Aprendizado de máquina - Parte 03;36:06
+Aula 04;Mineração de Dados e Aprendizado de máquina;16;Paradigmas de aprendizado de máquina - Parte 01;29:22
+Aula 04;Mineração de Dados e Aprendizado de máquina;17;Paradigmas de aprendizado de máquina - Parte 02;28:11
+Aula 05;Big Data, NoSQL e Hadoop;1;Big Data - Introdução;15:34
+Aula 05;Big Data, NoSQL e Hadoop;2;Big Data - Conceitos;46:29
+Aula 05;Big Data, NoSQL e Hadoop;3;Big Data - NoSQL - Conceitos;39:01
+Aula 05;Big Data, NoSQL e Hadoop;4;Big Data - Modelos de dados NoSQL;01:02:33
+Aula 05;Big Data, NoSQL e Hadoop;5;Big Data - Teorema CAP;29:03
+Aula 05;Big Data, NoSQL e Hadoop;6;Big Data - Hadoop - Conceitos - Parte 01;30:38
+Aula 05;Big Data, NoSQL e Hadoop;7;Big Data - Hadoop - Conceitos - Parte 02;45:03
+Aula 05;Big Data, NoSQL e Hadoop;8;Big Data - Hadoop - Componentes - Parte 01;26:04
+Aula 05;Big Data, NoSQL e Hadoop;9;Big Data - Hadoop - Componentes - Parte 02;14:51
+Aula 05;Big Data, NoSQL e Hadoop;10;Big Data - Ingestão de Dados - Conceitos e Ferramentas - Parte 01;45:55
+Aula 05;Big Data, NoSQL e Hadoop;11;Big Data - Ingestão de Dados - Conceitos e Ferramentas - Parte 02;52:25
+Aula 05;Big Data, NoSQL e Hadoop;12;Big Data - Hadoop - Coordenação e Configuração - Conceitos;40:10
+Aula 05;Big Data, NoSQL e Hadoop;13;Hadoop - Resumo dos Conceitos;15:50
+Aula 05;Big Data, NoSQL e Hadoop;14;Big Data e Hadoop - Questões (Revisão Questões);47:51
+Aula 06;Gestão de conteúdo e Workflow;1;Introdução;37:19
+Aula 06;Gestão de conteúdo e Workflow;2;Tipos de GED;35:01
+Aula 06;Gestão de conteúdo e Workflow;3;Componentes de GED;30:53
+Aula 06;Gestão de conteúdo e Workflow;4;Ações sobre os documentos;20:46
+Aula 06;Gestão de conteúdo e Workflow;5;Legislação e Normas;20:33
+Aula 06;Gestão de conteúdo e Workflow;6;Questões;31:39
+Aula 06;Gestão de conteúdo e Workflow;7;Questões;39:27
+Aula 07;Sistema de informação;1;Sistemas de Informação - Conceitos;44:26
+Aula 07;Sistema de informação;2;Sistemas de Informação - E-business;35:41
+Aula 07;Sistema de informação;3;Colaboração e Ferramentas de Social Business;30:54
+Aula 07;Sistema de informação;4;Teoria Geral dos Sistemas;57:58
+Aula 08;Gestão de processo de Negócio (CBOK);1;Gestão de Processo de Negócio - Motivação;31:09
+Aula 08;Gestão de processo de Negócio (CBOK);2;Gestão de Processos de Negócio - Conceitos Básicos - Parte 01;34:23
+Aula 08;Gestão de processo de Negócio (CBOK);3;Gestão de Processos de Negócio - Conceitos Básicos - Parte 02;30:31
+Aula 08;Gestão de processo de Negócio (CBOK);4;Gestão de Processos de Negócio - Conceitos Básicos - Parte 03;23:22
+Aula 08;Gestão de processo de Negócio (CBOK);5;Gestão de Processos de Negócio - Modelagem de Processos - Parte 01;27:56
+Aula 08;Gestão de processo de Negócio (CBOK);6;Gestão de Processos de Negócio - Modelagem de Processos - Parte 02;27:30
+Aula 08;Gestão de processo de Negócio (CBOK);7;Gestão de Processo de Negócio - Análise de Processos - Parte 01;37:31
+Aula 08;Gestão de processo de Negócio (CBOK);8;Gestão de Processo de Negócio - Análise de Processos - Parte 02;11:35
+Aula 08;Gestão de processo de Negócio (CBOK);9;Gestão de Processo de Negócio - Desenho de Processos - Parte 01;24:22
+Aula 08;Gestão de processo de Negócio (CBOK);10;Gestão de Processo de Negócio - Desenho de Processos - Parte 02;22:55
+Aula 08;Gestão de processo de Negócio (CBOK);11;Gestão de Processo de Negócio - Desenho de Processos - Parte 03;28:53
+Aula 08;Gestão de processo de Negócio (CBOK);12;Gestão de Processo de Negócio - Desempenho de Processo - Parte 01;22:20
+Aula 08;Gestão de processo de Negócio (CBOK);13;Gestão de Processo de Negócio - Desempenho de Processo - Parte 02;27:15
+Aula 08;Gestão de processo de Negócio (CBOK);14;Gestão de Processo de Negócio - Transformação de Processos - Introdução;39:05
+Aula 08;Gestão de processo de Negócio (CBOK);15;Gestão de Processo de Negócio - Organização do Gerenciamento;40:09
+Aula 08;Gestão de processo de Negócio (CBOK);16;Gestão de Processo de Negócio - Gerenciamento Corporativo de Processo;36:10
+Aula 08;Gestão de processo de Negócio (CBOK);17;Gestão de Processo de Negócio - Tecnologias BPM - Parte 01;30:39
+Aula 08;Gestão de processo de Negócio (CBOK);18;Gestão de Processo de Negócio - Tecnologias BPM - Parte 02;28:56
+Aula 09;BPMN e EPC;1;BPMN - Parte 01;29:50
+Aula 09;BPMN e EPC;2;BPMN - Parte 02;21:28
+Aula 09;BPMN e EPC;3;BPMN - Parte 03;22:49
+Aula 09;BPMN e EPC;4;Tarefas/ Atividades/ Subprocessos - Objetos de Fluxo;28:03
+Aula 09;BPMN e EPC;5;Eventos - Objetos de Fluxo;34:40
+Aula 09;BPMN e EPC;6;BPMN - Objetos de Fluxo - Gateways ou Desvios;30:51
+Aula 09;BPMN e EPC;7;BPMN - Objetos de Conexão - Fluxos e associação;20:16
+Aula 09;BPMN e EPC;8;BPMN - Artefatos, partições e objetos de dados;18:21
+Aula 10;Análise exploratória do dados (AED);1;Visualização e Análise Exploratória de Dados - Introdução;10:18
+Aula 10;Análise exploratória do dados (AED);2;Visualização dos Dados;26:02
+Aula 10;Análise exploratória do dados (AED);3;Análise Exploratória de Dados - Parte 01;52:32
+Aula 10;Análise exploratória do dados (AED);4;Análise Exploratória de Dados - Parte 02;34:59
+Aula 11;Linguagem R;1;Linguagem R Programação;36:11
+Aula 11;Linguagem R;2;R e R Studio;42:51
+Aula 11;Linguagem R;3;Uma Viagem pelo R - Parte 01;43:22
+Aula 11;Linguagem R;4;Uma Viagem pelo R - Parte 02;34:22
+Aula 11;Linguagem R;5;Continuando com Aritmética Básica;16:39
+Aula 11;Linguagem R;6;Matrizes e Data Frame;29:04
+Aula 11;Linguagem R;7;Function Plot;14:04
+Aula 11;Linguagem R;8;Linguagem R - Gráficos;31:36

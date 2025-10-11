@@ -1,0 +1,464 @@
+Aula;Subtítulo;Vídeo;Videoaula;Duração
+Aula 00;Lógica de programação;1;Esse curso é para você?;22:46
+Aula 00;Lógica de programação;2;Lógica de Programação - Introdução;18:00
+Aula 00;Lógica de programação;3;Definição;24:49
+Aula 00;Lógica de programação;4;Variáveis - Parte 01;22:38
+Aula 00;Lógica de programação;5;Variáveis - Parte 02;35:28
+Aula 00;Lógica de programação;6;Estruturas Condicionais - Parte 01;02:03
+Aula 00;Lógica de programação;7;Estruturas Condicionais - Parte 02;06:02
+Aula 00;Lógica de programação;8;Funções;22:03
+Aula 00;Lógica de programação;9;Strings;07:21
+Aula 00;Lógica de programação;10;Estruturas;11:26
+Aula 00;Lógica de programação;11;Para onde ir?;02:04
+Aula 00;Lógica de programação;12;Code Challengers;08:31
+Aula 00;Lógica de programação;13;Questões CESPE/CEBRASPE;41:51
+Aula 00;Lógica de programação;14;Revisão - Lógica de Programação;19:10
+Aula 01;Estrutura de dados;1;Estrutura de Dados - Esse curso é pra você?;11:02
+Aula 01;Estrutura de dados;2;List, Set e Map - parte 1;11:36
+Aula 01;Estrutura de dados;3;List, Set e Map - parte 2;23:49
+Aula 01;Estrutura de dados;4;Pilha/fila;51:36
+Aula 01;Estrutura de dados;5;Árvore;51:36
+Aula 01;Estrutura de dados;6;Como Percorrer;16:36
+Aula 01;Estrutura de dados;7;Questão + Árvore Cheia;16:41
+Aula 01;Estrutura de dados;8;Pesquisas Binárias e Sequenciais;24:19
+Aula 01;Estrutura de dados;9;Hands On;15:02
+Aula 01;Estrutura de dados;10;Revisão - Estrutura de dados;28:43
+Aula 01;Estrutura de dados;11;Questões;55:51
+Aula 01;Estrutura de dados;12;Estrutura de Dados e Ordenação - Parte 01;43:57
+Aula 01;Estrutura de dados;13;Estrutura de Dados e Ordenação - Parte 02;42:54
+Aula 01;Estrutura de dados;14;Estrutura de Dados e Ordenação - Parte 03;28:13
+Aula 01;Estrutura de dados;15;Estrutura de Dados e Ordenação - Parte 04;46:00
+Aula 01;Estrutura de dados;16;Revisão de Estrutura de Dados e Arquivos;10:14
+Aula 02;Algoritmos;1;Algoritimos de Ordenação - Introdução;10:20
+Aula 02;Algoritmos;2;Bubble Sort;14:33
+Aula 02;Algoritmos;3;Selection Sort;08:04
+Aula 02;Algoritmos;4;Insertion Sort;04:39
+Aula 02;Algoritmos;5;Shell Sort;06:06
+Aula 02;Algoritmos;6;Quick Sort;10:57
+Aula 02;Algoritmos;7;Merge Sort;05:38
+Aula 02;Algoritmos;8;Heap Sort;10:39
+Aula 02;Algoritmos;9;Hands On;37:28
+Aula 02;Algoritmos;10;Algoritimos de Ordenação - Bateria de questões;39:01
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";1;;26:45
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";2;;21:44
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";3;;02:20
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";4;;04:01
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";5;;04:38
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";6;;01:05
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";7;;16:59
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";8;;16:12
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";9;;03:18
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";10;;03:36
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";11;;16:42
+Aula 03;".NET; C#; ASP; NHIBERNATE; ENTITY";12;;13:09
+Aula 04;C e C++;1;Linguagem C;18:00
+Aula 04;C e C++;2;Mercado;11:12
+Aula 04;C e C++;3;Linguagem;10:20
+Aula 04;C e C++;4;Estruturas de Programação;22:44
+Aula 04;C e C++;5;Linguagem C - Revisão Parte 01;27:01
+Aula 04;C e C++;6;Linguagem C - Revisão Parte 02;16:47
+Aula 04;C e C++;7;Linguagem C - Revisão Parte 03;22:08
+Aula 04;C e C++;8;Linguagem C - Revisão Parte 04;30:13
+Aula 04;C e C++;9;Questões - Parte 01;31:29
+Aula 04;C e C++;10;Questões - Parte 02;51:04
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";1;Teoria Geral TDD - Test Driven Development;34:29
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";2;TDD, BDD e ATDD;39:55
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";3;Questões - Parte 1;13:52
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";4;Questões - Parte 2;01:15:14
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";5;Revisão Testes Automatizados - Teoria Geral - TDD, BDD e ATDD;14:33
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";6;Testes de Unidade na Prática com JUnit 5 - Parte 1;56:01
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";7;Testes de Unidade na Prática com JUnit 5 - Parte 2;01:06:20
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";8;Testes de Unidade Conhecendo Mocks, Stubs e Fakes - Parte 1;50:52
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";9;Testes de Unidade Conhecendo Mocks, Stubs e Fakes - Parte 2;39:56
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";10;Testes de Unidade Conhecendo Mocks, Stubs e Fakes - Parte 3;39:17
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";11;Testes de Unidade com JUnit 5 - Revisão - Parte 1;13:43
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";12;Testes de Unidade com JUnit 5 - Revisão - Parte 2;31:01
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";13;Testes de Integração com JUnit 5;36:30
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";14;Testes de Carga com JMeter;28:07
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";15;Testes de Aceitação com Selenium e JavaScript;35:44
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";16;(Visão DEV) Extreme Programming - Conceitos Básicos;01:41:42
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";17;(Visão DEV) Extreme Programming - Questões;54:25
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";18;(Visão DEV) Extreme Programming - Revisão;18:03
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";19;Sonar, Grafana e Prometheus - Parte 1;39:22
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";20;Sonar, Grafana e Prometheus - Parte 2;20:48
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";21;Sonar, Grafana e Prometheus - Parte 3;14:11
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";22;Sonar, Grafana e Prometheus - Parte 4;09:23
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";23;Sonar, Grafana e Prometheus - Parte 5;23:21
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";24;Sonar, Grafana e Prometheus - Questões;18:58
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";25;Sonar - Revisão;19:34
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";26;Clean Code - Parte 01 - Lidando com os Nomes;01:19:56
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";27;Clean Code - Parte 02 - Lidando com Funções;42:33
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";28;Clean Code - Parte 03 - Lidando com Comentários;18:07
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";29;Revisão - Clean Code - Partes 01 a 03;18:15
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";30;Clean Code - Parte 04 - Testes e Talk to Friends not to Strangers;47:58
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";31;Clean Code - Parte 05 - S.O.L.I.D - Parte 01;18:11
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";32;Clean Code - Parte 05 - S.O.L.I.D - Parte 02;20:45
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";33;Clean Code - Questões;25:20
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";34;Revisão - Clean Code - Parte Final;15:10
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";35;DDD - Parte 01 - Ubiquitous Language;35:47
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";36;DDD - Parte 02;01:04:49
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";37;DDD - Parte 03;05:06
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";38;DDD - Parte 04;27:33
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";39;DDD - Parte 05;12:58
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";40;DDD - Questões;35:36
+Aula 05;"Boas práticas de programação; Clean Code e DDD; Automação de Testes;";41;DDD - Revisão;13:42
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;1;GIT - Comandos Básicos - Parte 01;46:42
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;2;GIT - Revertendo Perdas e Branches - Parte 02;46:36
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;3;GIT - Lidando com os Merges, Gitflow, e Git Stash - Parte 03;59:25
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;4;GIT - Revisão - Parte 01;10:58
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;5;GIT - Revisão - Parte 02;14:34
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;6;GIT - Questões;30:01
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;7;Questões GIT - parte 1;15:27
+Aula 07;Controle de versão + SVN + GIT + MAVEN + ARTIFACTORY;8;Questões GIT - parte 2;20:12
+Aula 08;Arquitetura Monolítica + Microserviços + Multitenancy + Microfrontend;1;;30:47
+Aula 08;Arquitetura Monolítica + Microserviços + Multitenancy + Microfrontend;2;;16:57
+Aula 08;Arquitetura Monolítica + Microserviços + Multitenancy + Microfrontend;3;;20:44
+Aula 08;Arquitetura Monolítica + Microserviços + Multitenancy + Microfrontend;4;;21:49
+Aula 08;Arquitetura Monolítica + Microserviços + Multitenancy + Microfrontend;5;;41:26
+Aula 08;Arquitetura Monolítica + Microserviços + Multitenancy + Microfrontend;6;;12:15
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";1;;01:20:05
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";2;;32:03
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";3;;29:37
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";4;;37:45
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";5;;01:11:02
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";6;;27:12
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";7;;22:10
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";8;;26:25
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";9;;01:03:15
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";10;;38:15
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";11;;40:52
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";12;;36:08
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";13;;31:06
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";14;;20:42
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";15;;14:25
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";16;;32:00
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";17;;29:27
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";18;Cloud - Orquestradores de Containers - Kubernetes - Parte 02;24:21
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";19;Cloud - Orquestradores de Containers - Kubernetes - Parte 03;33:46
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";20;Revisão - Cloud Orquestradores de Containers;28:26
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";21;Introdução a Parte Prática do Kubernetes;01:32
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";22;Kubernetes Deployando Nginx;15:11
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";23;Kubernetes Deployando Nossa App;13:44
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";24;Orquestradores de Containers - Questões;08:16
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";25;Docker Avançado;25:05
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";26;#Networks;12:43
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";27;#Volumes VS Bind Mounts;14:38
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";28;#Best Practices;21:11
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";29;Resolução de Questões - Docker - Parte 1;31:38
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";30;Resolução de Questões - Docker - Parte 2;01:02:26
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";31;Resolução de Questões - Docker - Parte 3;01:22:49
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";32;Docker Avançado - Revisão;10:39
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";33;Kubernetes Avançado - Parte 01;48:23
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";34;Kubernetes Avançado - Parte 02;14:34
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";35;Kubernetes Avançado - Parte 03;42:05
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";36;Predictable Demands;19:05
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";37;Revisão de Kubernetes Avançado;27:54
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";38;Kubenetes Objects;21:18
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";39;Name Spaces;25:25
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";40;Arquitetura Cluster;01:04:59
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";41;Storage;16:41
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";42;Declarament Deployment;33:58
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";43;Kubernetes - Revisão;56:09
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";44;Padrões Avançados;17:37
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";45;Rancher;06:24
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";46;Kubertnetes - Questões;01:19:10
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";47;Cloud Avançado - Esse curso é para você?;31:33
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";48;#DevOps Avançado - Parte 01;23:36
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";49;#DevOps Avançado - Parte 02;22:15
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";50;DevOps e o CI/CD;08:01
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";51;GitOps;22:05
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";52;Questões - Parte 01;40:29
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";53;Questões - Parte 02;33:04
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";54;Questões - Parte 03;19:20
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";55;Revisão DevOps Avançado;17:27
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";56;12 factor app - Parte 01;56:19
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";57;12 factor app - Parte 02;32:39
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";58;12 factor app - Questões;33:35
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";59;12 factor app - Revisão;12:09
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";60;Serverless - Parte 01;23:19
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";61;Serverless - Parte 02;40:34
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";62;Serverless - Parte 03;49:08
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";63;Serverless - Parte 04;11:21
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";64;Revisão Serverless - Parte 01;17:37
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";65;Revisão Serverless - Parte 02;37:06
+Aula 09;"DevOps; OpenShift; Rancher; Docker; Kubernetes; Artifactory; Jenkins";66;Revisão Serverless - Parte 03;23:08
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;1;;52:39
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;2;;01:01:57
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;3;;18:02
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;4;;11:40
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;5;;38:54
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;6;;01:11:03
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;7;;01:25:13
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;8;;01:39:59
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;9;;17:40
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;10;;23:56
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;11;;21:51
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;12;;29:52
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;13;;18:15
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;14;;12:52
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;15;;30:32
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;16;;23:34
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;17;;15:52
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;18;;29:23
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;19;;31:54
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;20;;26:28
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;21;REST - Revisão;16:24
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;22;REST - Questões - Parte 1;21:40
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;23;REST - Questões - Parte 2;32:03
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;24;REST - Questões - Parte 3;28:38
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;25;Questões REST - FGV;31:53
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;26;GraphQL;30:33
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;27;Websocket;26:46
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;28;Websocket - Questões;10:51
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;29;GRPC - Parte 1;30:56
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;30;GRPC - Parte 2;28:17
+Aula 10;EJB + JTA + JNDI + Inversão de controle de dependência;31;GRPC - Parte 3;16:24
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;1;;01:52:15
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;2;;01:02:05
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;3;;01:01:38
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;4;;41:39
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;5;;18:00
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;6;;01:06:05
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;7;;01:10:14
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;8;;01:44:37
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;9;;18:10
+Aula 11;Hibernate + JDBC + JPA + ORM + JMS;10;;17:18
+Aula 12;HTML;1;Introdução à Trilha de Aplicações Web;15:47
+Aula 12;HTML;2;HTML;01:27:36
+Aula 12;HTML;3;HTML - Revisão;16:51
+Aula 12;HTML;4;HTML - Questões;28:17
+Aula 13;CSS e Bootstrap;1;CSS;37:20
+Aula 13;CSS e Bootstrap;2;CSS - Revisão;12:33
+Aula 13;CSS e Bootstrap;3;Questões WEB - FGV;02:04:13
+Aula 13;CSS e Bootstrap;4;CSS - Questões;31:02
+Aula 14;Javascript;1;JavaScript Avançado - Parte 01;01:08:31
+Aula 14;Javascript;2;JavaScript Avançado - Parte 02;44:38
+Aula 14;Javascript;3;Revisão - JavaScript;36:59
+Aula 14;Javascript;4;O que estudar da Web? HTML, CSS, JS;12:53
+Aula 14;Javascript;5;Questões WEB - FGV;02:04:13
+Aula 14;Javascript;6;JavaScript - Questões Multibancas;17:13
+Aula 14;Javascript;7;JavaScript - Questões Cesgranrio - Parte 1;01:12:19
+Aula 14;Javascript;8;JavaScript - Questões Cesgranrio - Parte 2;33:20
+Aula 14;Javascript;9;TypeScript - Parte 01;34:31
+Aula 14;Javascript;10;TypeScript - Parte 02;46:40
+Aula 14;Javascript;11;TypeScript - Questões;23:36
+Aula 15;"AJAX; JSON; JQuery; Spring;";1;Jquery;49:46
+Aula 15;"AJAX; JSON; JQuery; Spring;";2;Revisão - JQuery;20:16
+Aula 15;"AJAX; JSON; JQuery; Spring;";3;Jquery - Questões;24:32
+Aula 15;"AJAX; JSON; JQuery; Spring;";4;AJAX;28:26
+Aula 15;"AJAX; JSON; JQuery; Spring;";5;AJAX - Revisão;21:28
+Aula 15;"AJAX; JSON; JQuery; Spring;";6;AJAX - Questões;11:09
+Aula 15;"AJAX; JSON; JQuery; Spring;";7;Spring World Boot - Esse curso é para você? Alinhamento!;31:21
+Aula 15;"AJAX; JSON; JQuery; Spring;";8;Spring - Conceitos Básicos;32:55
+Aula 15;"AJAX; JSON; JQuery; Spring;";9;Spring Anotações Gerais;07:55
+Aula 15;"AJAX; JSON; JQuery; Spring;";10;Spring MVC;17:51
+Aula 15;"AJAX; JSON; JQuery; Spring;";11;Spring Boot e Data;33:53
+Aula 15;"AJAX; JSON; JQuery; Spring;";12;Spring Security;20:34
+Aula 15;"AJAX; JSON; JQuery; Spring;";13;JWT;18:21
+Aula 15;"AJAX; JSON; JQuery; Spring;";14;Hands On - Parte 1;24:37
+Aula 15;"AJAX; JSON; JQuery; Spring;";15;Revisão Spring;29:28
+Aula 15;"AJAX; JSON; JQuery; Spring;";16;Spring Questões;48:10
+Aula 15;"AJAX; JSON; JQuery; Spring;";17;Hands On - Parte 2;39:01
+Aula 15;"AJAX; JSON; JQuery; Spring;";18;Spring Cloud - Parte 01;30:03
+Aula 15;"AJAX; JSON; JQuery; Spring;";19;Spring Cloud - Parte 02;24:47
+Aula 15;"AJAX; JSON; JQuery; Spring;";20;Spring Cloud - Parte 03;13:39
+Aula 15;"AJAX; JSON; JQuery; Spring;";21;Spring Cloud - Revisão;17:30
+Aula 15;"AJAX; JSON; JQuery; Spring;";22;Spring Cloud - Prática;54:20
+Aula 15;"AJAX; JSON; JQuery; Spring;";23;Esse curso é para você?;06:58
+Aula 15;"AJAX; JSON; JQuery; Spring;";24;JSON - Teoria;28:27
+Aula 15;"AJAX; JSON; JQuery; Spring;";25;JSON - Revisão;05:37
+Aula 15;"AJAX; JSON; JQuery; Spring;";26;JSON - Questões;19:16
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;1;;15:47
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;2;;01:06:21
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;3;;45:09
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;4;;23:46
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;5;;17:49
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;6;;26:04
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;7;;01:27:48
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;8;;37:24
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;9;;25:46
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;10;;13:37
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;11;;45:57
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;12;;10:26
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;13;;46:53
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;14;;07:33
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;15;;18:50
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;16;;15:41
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;17;;12:44
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;18;;16:55
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;19;;04:53
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;20;;21:09
+Aula 16;JEE + JAKARTA EE + JSF + JSP + JSTL + Servlets + Angular + React;21;;19:48
+Aula 17;JSE + IDEs;1;Java - Esse curso é pra você?;26:42
+Aula 17;JSE + IDEs;2;Características da liguagem Java;59:31
+Aula 17;JSE + IDEs;3;Hello world;16:02
+Aula 17;JSE + IDEs;4;Cultura POp;06:37
+Aula 17;JSE + IDEs;5;Sintaxe;46:37
+Aula 17;JSE + IDEs;6;Strings;19:37
+Aula 17;JSE + IDEs;7;Arrays;07:45
+Aula 17;JSE + IDEs;8;Collections;28:27
+Aula 17;JSE + IDEs;9;Revisão de Java - parte 1;27:02
+Aula 17;JSE + IDEs;10;Exceptions;31:35
+Aula 17;JSE + IDEs;11;Threads;13:59
+Aula 17;JSE + IDEs;12;Version's Features;10:51
+Aula 17;JSE + IDEs;13;Orientação a Objeto (o.o);42:12
+Aula 17;JSE + IDEs;14;Orientação a Objeto (o.o) - Avançado;01:10:33
+Aula 17;JSE + IDEs;15;Orientação a Objeto (o.o) - Avançadíssimo;04:34
+Aula 17;JSE + IDEs;16;REVISÃO de Java - parte 2;55:18
+Aula 17;JSE + IDEs;17;Java SE - Bateria de Questões - Cebraspe - Parte I;34:11
+Aula 17;JSE + IDEs;18;Java SE - Bateria de Questões - Cebraspe - Parte II;30:29
+Aula 17;JSE + IDEs;19;Java SE - Bateria de Questões - Cebraspe - Parte III;46:45
+Aula 17;JSE + IDEs;20;Java SE - Bateria de Questões - Cesgranrio - Parte I;01:45:47
+Aula 17;JSE + IDEs;21;Java SE - Bateria de Questões - Cesgranrio - Parte III;41:21
+Aula 17;JSE + IDEs;22;Resumo sobre Java - Cesgranrio;03:38
+Aula 18;Programação OO com Java;1;Apresentação do Curso e Motivação - esse curso é pra você?;15:55
+Aula 18;Programação OO com Java;2;Introdução à Orientação a Objetos;13:46
+Aula 18;Programação OO com Java;3;Classes, métodos, atributos, constructors, encapsulamento e modificadores de visibilidade;01:27:56
+Aula 18;Programação OO com Java;4;Conceitos básicos de Orientação a Objetos - Questões;45:05
+Aula 18;Programação OO com Java;5;Herança, sobrecarga e polimorfismo - parte 1;01:04:49
+Aula 18;Programação OO com Java;6;Herança, sobrecarga e polimorfismo - parte 2;43:38
+Aula 18;Programação OO com Java;7;Questões de Orientação a Objetos - Avançado;33:45
+Aula 18;Programação OO com Java;8;Classes abstratas, Interfaces e Polimorfismo;01:31:26
+Aula 18;Programação OO com Java;9;Classes abstratas, Interfaces e Polimorfismo - Questões;40:05
+Aula 18;Programação OO com Java;10;Revisão de Orientação Objeto;40:38
+Aula 19;PHP + ZEND + DRUPAL;1;PHP Moderno;40:31
+Aula 19;PHP + ZEND + DRUPAL;2;PHP - built-in functions e Strings;28:05
+Aula 19;PHP + ZEND + DRUPAL;3;PHP - Array;16:54
+Aula 19;PHP + ZEND + DRUPAL;4;PHP - O.O;18:23
+Aula 19;PHP + ZEND + DRUPAL;5;PHP -  Traits e Interface;06:39
+Aula 19;PHP + ZEND + DRUPAL;6;PHP - Arquivos e Json;03:32
+Aula 19;PHP + ZEND + DRUPAL;7;PHP - Banco de Dados;13:37
+Aula 19;PHP + ZEND + DRUPAL;8;PHP - Web;06:45
+Aula 19;PHP + ZEND + DRUPAL;9;PHP - Revisão;40:21
+Aula 19;PHP + ZEND + DRUPAL;10;Testes PHP;17:38
+Aula 19;PHP + ZEND + DRUPAL;11;Questões PHP - Parte 01;59:30
+Aula 19;PHP + ZEND + DRUPAL;12;Questões PHP - Parte 02;23:00
+Aula 20;Python + Ruby + Rails;1;Python - Parte 01;42:50
+Aula 20;Python + Ruby + Rails;2;Python - Parte 02;41:10
+Aula 20;Python + Ruby + Rails;3;Python - Operadores;25:33
+Aula 20;Python + Ruby + Rails;4;Python - Strings;41:41
+Aula 20;Python + Ruby + Rails;5;Python - Condições (if);14:29
+Aula 20;Python + Ruby + Rails;6;Python - Loop;17:38
+Aula 20;Python + Ruby + Rails;7;Python - Revisão - Parte 01;19:04
+Aula 20;Python + Ruby + Rails;8;Python - Listas;17:06
+Aula 20;Python + Ruby + Rails;9;Python - Tuplas;17:59
+Aula 20;Python + Ruby + Rails;10;Python - Set;13:45
+Aula 20;Python + Ruby + Rails;11;Python - Dicionários;11:11
+Aula 20;Python + Ruby + Rails;12;Python - Funções;22:56
+Aula 20;Python + Ruby + Rails;13;Python - Questões FGV;36:15
+Aula 20;Python + Ruby + Rails;14;Python - Questões - Parte 01;26:00
+Aula 20;Python + Ruby + Rails;15;Python - Questões - Parte 02;26:29
+Aula 20;Python + Ruby + Rails;16;Python - Questões - Parte 03;21:54
+Aula 20;Python + Ruby + Rails;17;Python - Questões Cesgranrio - Parte 0;01:39:43
+Aula 20;Python + Ruby + Rails;18;Python - Questões Cesgranrio - Parte 0;49:57
+Aula 20;Python + Ruby + Rails;19;Revisão de Python - Cesgranrio;10:01
+Aula 21;Sistemas móveis: Android + iOS;1;Mobile iOS;09:32
+Aula 21;Sistemas móveis: Android + iOS;2;Swift - Conceitos Básicos;28:31
+Aula 21;Sistemas móveis: Android + iOS;3;Strings;27:48
+Aula 21;Sistemas móveis: Android + iOS;4;Condicionais;35:04
+Aula 21;Sistemas móveis: Android + iOS;5;Mobile iOS;15:34
+Aula 21;Sistemas móveis: Android + iOS;6;Loops;09:20
+Aula 21;Sistemas móveis: Android + iOS;7;Data structures;01:03:20
+Aula 21;Sistemas móveis: Android + iOS;8;Functions;24:16
+Aula 21;Sistemas móveis: Android + iOS;9;Structures;29:53
+Aula 21;Sistemas móveis: Android + iOS;10;iOS;01:18:29
+Aula 21;Sistemas móveis: Android + iOS;11;Introdução ao Android;28:47
+Aula 21;Sistemas móveis: Android + iOS;12;Kotlin - Parte 01;40:37
+Aula 21;Sistemas móveis: Android + iOS;13;Kotlin - Parte 02;33:38
+Aula 21;Sistemas móveis: Android + iOS;14;Desenvolvimento Mobile - Parte 01;30:49
+Aula 21;Sistemas móveis: Android + iOS;15;Desenvolvimento Mobile - Parte 02;29:33
+Aula 21;Sistemas móveis: Android + iOS;16;Desenvolvimento Mobile - Parte 03;29:03
+Aula 21;Sistemas móveis: Android + iOS;17;Desenvolvimento Mobile - Parte 04;36:51
+Aula 21;Sistemas móveis: Android + iOS;18;Desenvolvimento Mobile - Parte 05;33:21
+Aula 21;Sistemas móveis: Android + iOS;19;Desenvolvimento Mobile - Parte 06;27:53
+Aula 21;Sistemas móveis: Android + iOS;20;Desenvolvimento Mobile - Parte 07;27:17
+Aula 22;Sistemas móveis hibridos: React Native + Flutter + Cordova + Ionic;1;Hibrido/Cros - Parte 01;34:45
+Aula 22;Sistemas móveis hibridos: React Native + Flutter + Cordova + Ionic;2;Hibrido/Cros - Parte 02;28:45
+Aula 22;Sistemas móveis hibridos: React Native + Flutter + Cordova + Ionic;3;React Native - Parte 01;42:57
+Aula 22;Sistemas móveis hibridos: React Native + Flutter + Cordova + Ionic;4;React Native - Parte 02;43:16
+Aula 23;XML, XSLT, XSD, XHTML, DHTML;1;Esse curso é para você?;06:58
+Aula 23;XML, XSLT, XSD, XHTML, DHTML;2;XML - Teoria;01:26:24
+Aula 23;XML, XSLT, XSD, XHTML, DHTML;3;XML - Revisão;21:33
+Aula 23;XML, XSLT, XSD, XHTML, DHTML;4;XML - Questões;43:23
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;1;Padrões de Projetos - Motivação inicial;39:27
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;2;GoF - Introdução;10:00
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;3;GoF - Criacionais;29:35
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;4;GoF - Estruturais;28:21
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;5;GoF - Comportamentais;32:07
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;6;Questões;41:29
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;7;Revisão - Por quê padrões são importantes?;23:22
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;8;Revisão GoF;19:45
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;9;Padrões GRASP;51:48
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;10;Questões - Parte 01;23:40
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;11;S.O.L.I.D;38:37
+Aula 24 (Somente em Vídeo);Padrões de Projeto, SOLID e GRASP - Visão DEV;12;Questões - Parte 02;06:52
+Aula 25 (Somente em Vídeo);ElasticSearch, Logstash, Kibana;1;Elasticseach;01:21:13
+Aula 25 (Somente em Vídeo);ElasticSearch, Logstash, Kibana;2;Logstash;14:24
+Aula 25 (Somente em Vídeo);ElasticSearch, Logstash, Kibana;3;Kibana;12:05
+Aula 25 (Somente em Vídeo);ElasticSearch, Logstash, Kibana;4;Elk Stack - Parte Prática;28:56
+Aula 25 (Somente em Vídeo);ElasticSearch, Logstash, Kibana;5;Efk Stack;06:21
+Aula 25 (Somente em Vídeo);ElasticSearch, Logstash, Kibana;6;Questões;47:46
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";1;#o.o;47:06
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";2;Questões #o.o;53:39
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";3;Dunder Comprehensions;17:56
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";4;Questões;04:02
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";5;I/o;06:44
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";6;Prompt - 01;04:54
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";7;#banco de Dados;06:46
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";8;Prompt - 02;19:06
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";9;Prompt - 03;02:50
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";10;Exceptions;11:20
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";11;Python Intermediário;08:58
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";12;I/o - Imput Output;09:52
+Aula 26 (Prof. Raphael) - Somente em Vídeo;"O.O em Python; Python I/O - arquivos e banco de dados; Python - Exceptions;";13;Banco de Dados;06:50
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";1;Python Pip;16:42
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";2;Pytest;13:36
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";3;Questões Pytest;04:57
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";4;Test Containers;17:23
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";5;Programação Funcional;25:39
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";6;Questões Programação Funcional;31:04
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";7;Json - Questões Json;05:45
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";8;Questões Python Web Flask;06:36
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";9;Python Web Django;18:38
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";10;Revisão de Pip;02:32
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";11;Revisão de Test Containers;03:07
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";12;Revisão de Programação Funcional;04:57
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";13;Revisão de Json;01:40
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";14;Revisão de Python Web Flask;05:15
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";15;Python Web Django;09:53
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";16;Questões sobre Python Web Django;23:28
+Aula 27 (Prof. Raphael) - Somente em Vídeo;"Pytest e testContainer; pip; Programação Funcional; Django; Flask";17;Parte Prática de Python Web Django;17:19
+Aula 28 (Prof. Raphael) - Somente em Vídeo;"Arquitetura Hexagonal; Clean Architecture";1;;04:58
+Aula 28 (Prof. Raphael) - Somente em Vídeo;"Arquitetura Hexagonal; Clean Architecture";2;;14:49
+Aula 28 (Prof. Raphael) - Somente em Vídeo;"Arquitetura Hexagonal; Clean Architecture";3;;24:10
+Aula 28 (Prof. Raphael) - Somente em Vídeo;"Arquitetura Hexagonal; Clean Architecture";4;;07:46
+Aula 28 (Prof. Raphael) - Somente em Vídeo;"Arquitetura Hexagonal; Clean Architecture";5;;16:04
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;1;Gitlab - Esse curso É Para Você?;05:22
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;2;Gitlab - Conceitos Básicos;08:07
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;3;Gitlab - Gestão de Projetos;00:40
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;4;Gitlab - Merge Request;01:42
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;5;Gitlab - Ci;10:48
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;6;Gitlab - Runners;06:03
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;7;GitLab;34:10
+Aula 29 (Prof. Raphael) - Somente em Vídeo;Gitlab;8;Questões GitLab;01:17:25
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;1;Linguagem C;18:00
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;2;Mercado;11:12
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;3;Linguagem;10:20
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;4;Estruturas de PRogramação;22:44
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;5;Linguagem C - Revisão Parte 01;27:01
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;6;Linguagem C - Revisão Parte 02;16:47
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;7;Linguagem C - Revisão Parte 03;22:08
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;8;Linguagem C - Revisão Parte 04;30:13
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;9;Questões - Parte 01;31:29
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;10;Questões - Parte 02;51:04
+Aula 30 (Prof. Raphael) - Somente em Vídeo;Linguagem C;11;Limguagem C;11:44
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";1;Database Migrations - Parte 01;32:01
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";2;Database Migrations - Parte 02;33:16
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";3;Database Migrations - Parte 03;21:18
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";4;Database Migrations - Questões;01:07
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";5;Flyway - Parte 01;20:48
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";6;Flyway - Parte 02;23:56
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";7;Flyway - Questões;05:48
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";8;Liquibase;18:26
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";9;Database Migrations - Revisão;12:08
+Aula 31 (Prof. Raphael) - Somente em Vídeo;"Flyway; Liquibase";10;Liquibase;19:41
